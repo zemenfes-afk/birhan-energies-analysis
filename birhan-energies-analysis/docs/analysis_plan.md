@@ -1,0 +1,1 @@
+Change Point Models are used because oil prices do not follow a single consistent trend. Instead, they exist in "regimes." A Change Point Model identifies the exact timestamp ($\tau$) where the statistical properties (mean or variance) of the price shifted, allowing us to link that shift to a specific event like the 2020 lockdowns or the 2022 invasion.
